@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的自我介紹</title>
+</head>
+<body>
+    <header>
+        <h1>歡迎來到我的網站</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">關於我</a></li>
+            <li><a href="#portfolio">作品集</a></li>
+            <li><a href="#contact">聯繫我</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>關於我</h2>
+        <p>我是一名網頁開發者，熱愛創建令人驚嘆的網站和應用程序。</p>
+    </section>
+    <section id="portfolio">
+        <h2>作品集</h2>
+        <p>這裡展示了一些我最近完成的項目。</p>
+        <!-- 你可以在這裡添加你的作品信息和連結 -->
+    </section>
+    <section id="contact">
+        <h2>聯繫我</h2>
+        <p>如果您有任何問題或合作請求，請隨時聯繫我。</p>
+        <p>Email: your@email.com</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 我的網站</p>
+    </footer>
+</body>
+</html>
